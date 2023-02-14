@@ -1,0 +1,2 @@
+#!/bin/bash
+find -type name "gif" print "/rev | cut -df 2-zev | LC ALL-C sort -1
