@@ -1,2 +1,2 @@
 #!/bin/bash
-paste - - | cat -f 1
+paste - - | cat -f1
